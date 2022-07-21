@@ -6,7 +6,7 @@
                     $email = addslashes($_POST['Email']);
                     $telefone = addslashes($_POST['Telefone']);
 
-                    $to = "vitorhugomnz@gmail.com";
+                    $to = "test@gmail.com";
                     //gessonacionalsp@hotmail.com
                     $subuject = "Contato para Orçamento Gesso nacional";
 
